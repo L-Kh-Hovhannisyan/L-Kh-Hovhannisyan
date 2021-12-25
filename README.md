@@ -5,6 +5,9 @@
 
 ## Technologies
 
+![Linux](https://img.shields.io/badge/linux-%23404d59?style=for-the-badge&logo=linux&logoColor=ffdd54)
+![Bash-scripting](https://img.shields.io/badge/bash-scripting-%23404d59?style=for-the-badge&bash-scripting=linux&logoColor=ffdd54)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-129EDB?style=for-the-badge&logo=C++&logoColor=3D17FA)
 ![C++](https://img.shields.io/badge/C++-6D80DB?style=for-the-badge&logo=C++&logoColor=3D17FA)
