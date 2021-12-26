@@ -13,6 +13,7 @@
    </p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <br>
 
 I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby and
@@ -138,7 +139,6 @@ I am always on the lookout for new projects to work on and new people to collabo
       src="https://user-images.githubusercontent.com/63071990/147406730-dfa5826f-5d77-456c-905c-358a667347fa.png" width="40"
       height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></a> 
     </p>
-
 
  <h3 align="center">GitHub Analytics:</h3>
 
