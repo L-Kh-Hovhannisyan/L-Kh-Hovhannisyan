@@ -1,19 +1,24 @@
 <h3 align="center">Hi there, I am Leo 👋</h3>
 
 <p align="center">
-  <a href="https://github.com/L-Kh-Hovhannisyan">
-  <img height="185em" width="350" src="https://user-images.githubusercontent.com/63071990/147404583-dcc9c1f9-0e98-4541-a66b-7120ed5f2afb.png"/>
-<p align="center">
    <a href="https://www.linkedin.com/in/l-kh-hovhannisyan-560706185" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="leo" height="30" width="40" /></a>
-   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+   <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="leo" height="30" width="40" /></a>
-   <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+   <a href="" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="leo" height="30" width="40" /></a>
    </p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br>
+
+I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby and
+I also share the solutions manuals that I use and write as I work exercises in the texts.
+
+I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
 <h3 align="center">DevOps Tools:</h3>
     
@@ -135,7 +140,7 @@
     </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+ <h3 align="center">GitHub Analytics:</h3>
 
 <p align="center">
 <a href="https://github.com/L-Kh-Hovhannisyan">
