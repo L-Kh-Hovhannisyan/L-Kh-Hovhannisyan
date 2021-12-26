@@ -1,9 +1,11 @@
-## Hi there, I am Leo 👋
 
-<br>
+<p align="center">
+<a href="https://github.com/L-Kh-Hovhannisyan">
+  <img height="180em" src="https://user-images.githubusercontent.com/63071990/147404583-dcc9c1f9-0e98-4541-a66b-7120ed5f2afb.png"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Hi there, I am Leo 👋</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/l-kh-hovhannisyan-560706185" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
@@ -15,14 +17,12 @@
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
+
 <br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<h3 align="center">Languages and Tools:</h3>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://developer.python.com" target="_blank" rel="noreferrer"> <img
+<p align="center"> <a href="https://developer.python.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -75,11 +75,34 @@
    </a> </p>
 <br>
 
+
 ## DevOps Tools
 ![Git](https://img.shields.io/badge/-git-05122A?.svg?style=style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-githubactions-05122A?.svg?style=style=flat&logo=githubactions&logoColor=white)&nbsp;
 ![Subversion](https://img.shields.io/badge/-Subversion-05122A?.svg?style=style=flat&logo=subversion&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?.svg?style=style=flat&logo=docker&logoColor=white)&nbsp;
+
+<br>
+
+<h3 align="left">Computer Science:</h3>
+
+<p align="left"> <a href="https://developer.python.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg"
+      alt="wolfram" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> 
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"
+      width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+   
+   </a> </p>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
