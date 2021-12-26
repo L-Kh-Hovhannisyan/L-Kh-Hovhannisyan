@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/L-Kh-Hovhannisyan">
-  <img height="180em" src="https://user-images.githubusercontent.com/63071990/147404583-dcc9c1f9-0e98-4541-a66b-7120ed5f2afb.png"/>
+  <img height="185em" width="350" src="https://user-images.githubusercontent.com/63071990/147404583-dcc9c1f9-0e98-4541-a66b-7120ed5f2afb.png"/>
 
 
 <h3 align="center">Hi there, I am Leo 👋</h3>
