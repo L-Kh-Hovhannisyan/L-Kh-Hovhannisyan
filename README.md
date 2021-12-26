@@ -7,7 +7,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux&logoColor=ffdd54)&nbsp;
 ![Bash-scripting](https://img.shields.io/badge/bash-scripting-05122A?style=flat&logo=&bash-scripting=linux&logoColor=ffdd54)&nbsp;
