@@ -5,43 +5,48 @@
 
 ## Technologies
 
-![Linux](https://img.shields.io/badge/linux-%23404d59?style=for-the-badge&logo=linux&logoColor=ffdd54)
-![Bash-scripting](https://img.shields.io/badge/bash-scripting-%23404d59?style=for-the-badge&bash-scripting=linux&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux&logoColor=ffdd54)&nbsp;
+![Bash-scripting](https://img.shields.io/badge/bash-scripting-05122A?style=flat&logo=&bash-scripting=linux&logoColor=ffdd54)&nbsp;
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-129EDB?style=for-the-badge&logo=C++&logoColor=3D17FA)
-![C++](https://img.shields.io/badge/C++-6D80DB?style=for-the-badge&logo=C++&logoColor=3D17FA)
-![Verilog](https://img.shields.io/badge/verilog-6D6DDB?style=for-the-badge&logo=C++&logoColor=3D17FA)
-![VHDL](https://img.shields.io/badge/VHDL-4848A3?style=for-the-badge&logo=C++&logoColor=3D17FA)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Verilog](https://img.shields.io/badge/-verilog-05122A?style=flat&logo&logo=verilog&logoColor=3D17FA)&nbsp;
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo&logo=VHDL&logoColor=3D17FA)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/-html5-05122A?.svg?style=style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-css3-05122A?.svg?style=style=flat&logo=css3&logoColor=white)&nbsp;
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![React](https://img.shields.io/badge/-react-05122A?.svg?style=style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Styled Components](https://img.shields.io/badge/-styled--components-05122A?style=style=flat&logo=styled-components&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-node.js-05122A?style=style=flat&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/-express.js-05122A?.svg?style=style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?&style=style=flat&logo=Socket.io&logoColor=white)&nbsp;
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=yellowgreen)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?.svg?style=style=flat&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?.svg?style=style=flat&logo=mysql&logoColor=yellowgreen)&nbsp;
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Subversion](https://img.shields.io/badge/Subversion-%2320232a.svg?style=for-the-badge&logo=subversion&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-git-05122A?.svg?style=style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-githubactions-05122A?.svg?style=style=flat&logo=githubactions&logoColor=white)&nbsp;
+![Subversion](https://img.shields.io/badge/-Subversion-05122A?.svg?style=style=flat&logo=subversion&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-05122A?.svg?style=style=flat&logo=docker&logoColor=white)&nbsp;
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%0B58B0.svg?style=for-the-badge&logo=SciPy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23404d59.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23F7931E.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?.svg?style=flat&logo=PyTorch&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?.svg?style=style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/-numpy-05122A?.svg?style=style=flat&logo=numpy&logoColor=white)&nbsp;
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?.svg?style=style=flat&logo=SciPy&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?.svg?style=style=flat&logo=Matplotlib&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-pandas-05122A?.svg?style=style=flat&logo=pandas&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?.svg?style=style=flat&logo=TensorFlow&logoColor=white)&nbsp;
 
-## GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Kh-Hovhannisyan&show_icons=true)
+<p align="center">
+<a href="https://github.com/L-Kh-Hovhannisyan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=L-Kh-Hovhannisyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=L-Kh-Hovhannisyan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=L-Kh-Hovhannisyan)
 
