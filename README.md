@@ -12,7 +12,7 @@
       alt="leo" height="30" width="40" /></a>
    </p>
 
-<img align="right" height="250" width="450" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br>
 
