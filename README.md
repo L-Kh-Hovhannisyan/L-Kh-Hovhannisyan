@@ -16,10 +16,9 @@
 
 <br>
 
-I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby and
-I also share the solutions manuals that I use and write as I work exercises in the texts.
-
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Science at Shirak State University.
+Advanced knowledge of 5+ programming languages (JavaScript/Node.js, PHP, Python, C/C++/C#, Verilog/VHDL) and related fields (Network/CISCO, Linux, Bash-scripting, HTML, CSS, MySQL, MongoDB, Docker, Git, SVN, Apache, etc.). Websites creation, OpenSource projects deployments, applications development, building, testing and deployments - are the things everyday I'm working with and in what I'm improving my skills constantly.
+Currently working on machine learning projects. My interests include software design and development, artificial intelligence, machine learning, computer vision, and natural language processing.
 
 <h3 align="center">DevOps Tools:</h3>
     
