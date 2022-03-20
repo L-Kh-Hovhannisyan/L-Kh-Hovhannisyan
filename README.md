@@ -1,4 +1,5 @@
 <h3 align="center">Hi there, I am Leo 👋</h3>
+For those who don't know me, I'm autistic. Asperger's Syndrome to be precise.
 
 <p align="center">
    <a href="https://www.linkedin.com/in/l-kh-hovhannisyan-560706185" target="blank"><img align="center"
@@ -31,9 +32,9 @@ My interests include software design and development, artificial intelligence, m
 
 ### Languages:
 
-- Armenian 
-- Russian
-- English
+- Armenian 🇦🇲
+- Russian  🇷🇺
+- English  🇬🇧
 
 <h3 align="center">DevOps Tools:</h3>
     
