@@ -1,5 +1,4 @@
 <h3 align="center">Hi there, I am Leo 👋</h3>
-For those who don't know me, I'm autistic. Asperger's Syndrome to be precise.
 
 <p align="center">
    <a href="https://www.linkedin.com/in/l-kh-hovhannisyan-560706185" target="blank"><img align="center"
@@ -16,6 +15,17 @@ For those who don't know me, I'm autistic. Asperger's Syndrome to be precise.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <br>
+
+### About
+
+For those who don't know me, I'm autistic. Asperger's Syndrome to be precise. 
+<p>
+Many of us were considered failures of a sort in school, outcasts, rejects. To us school was a nightmare from which there was no end, but then there was the end, and at that end we found salvation in technology.
+<p>
+This is a subject which has always troubled me, an assertion that one can behave poorly because one is autistic. Perhaps it's because of or some other permutation, but let's start with a very simple truth:
+Being autistic does not make you a jerk, nor does it ever give you license to be one.
+<p>
+Since childhood I have been fond of contemplation, well, if you can call it that. I disassembled everything that I could understand at home, looked at how it was arranged, tried to understand how it works ... And now, years later I managed to carry this contemplation of the technological sphere of the Earth (or technium in other words).
 
 ### Education
 I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Science at <a href="https://shsu.am/en/">Shirak State University</a>.
