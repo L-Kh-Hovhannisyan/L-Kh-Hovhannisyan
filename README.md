@@ -120,8 +120,6 @@ My interests include software design and development, artificial intelligence, m
     <img src="https://user-images.githubusercontent.com/63071990/147405963-8eaaecfa-30bb-4f24-b9be-9840ddd5b30b.png"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"></a> 
     </p>
- 
- <h3 align="center">Web Development:</h3>
 
  <h3 align="center">GitHub Analytics:</h3>
 
