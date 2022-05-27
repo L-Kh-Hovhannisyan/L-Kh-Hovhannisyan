@@ -123,48 +123,6 @@ My interests include software design and development, artificial intelligence, m
  
  <h3 align="center">Web Development:</h3>
 
-<p align="center"> <a href="https://developer.python.com" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-     <img
-      src="https://user-images.githubusercontent.com/63071990/147406661-05afbeca-3d41-48ed-b868-a71f32025b0a.png"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-     <img
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-   <img
-      src="https://user-images.githubusercontent.com/63071990/147406739-51a095cc-96db-4585-928f-b0c0fc96e700.png" width="48"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-   <img
-      src="https://user-images.githubusercontent.com/63071990/147406730-dfa5826f-5d77-456c-905c-358a667347fa.png" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"></a> 
-    </p>
-
  <h3 align="center">GitHub Analytics:</h3>
 
 <p align="center">
