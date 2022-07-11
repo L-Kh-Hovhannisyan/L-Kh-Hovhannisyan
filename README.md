@@ -35,7 +35,8 @@ Since childhood I have been fond of contemplation, well, if you can call it that
 I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Science at <a href="https://shsu.am/en/">Shirak State University</a>.
 
 ### Skills
-Advanced knowledge of 5 programming languages (Python, C/C++/C#, Verilog) and related fields (Network/CISCO, Linux, Bash-scripting, HTML, CSS, MySQL, MongoDB, Docker, Git, SVN, Apache, etc.). Websites creation, OpenSource projects deployments, applications development, building, testing and deployments - are the things everyday I'm working with and in what I'm improving my skills constantly.
+Advanced knowledge of 5 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++/C#, Verilog) and related fields (Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, MySQL, MongoDB, Docker, Git, SVN, Apache, etc.). 
+Bayesian statistics, applied statistics, optimization, machine learning, deep learning, stochastic processes, algorithms and data structures, concurrent programming, distributed programming - are the things everyday I'm working with and in what I'm improving my skills constantly.
 
 ### Interests
 
