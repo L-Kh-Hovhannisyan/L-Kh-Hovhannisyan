@@ -33,10 +33,16 @@ Bayesian statistics, applied statistics, optimization, machine learning, deep le
 
 ### Interests
 
-- I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby!
-- Currently working on machine learning projects. 
-My interests include machine learning single-cell genomics and clonal mutations.
-- I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby!<br>
+#### Currently working on ML Bioinformatics projects.<br>
+My interests include:
+
+- Applied statistics
+- Computational statistics
+- Bayesian methods
+- Bioinformatics
+
+I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
 ### Languages:
 
