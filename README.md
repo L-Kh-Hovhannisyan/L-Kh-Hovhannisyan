@@ -33,7 +33,6 @@ Since childhood I have been fond of contemplation, well, if you can call it that
 
 ### Education
 I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Science at <a href="https://shsu.am/en/">Shirak State University</a>.
-I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby!
 
 At age 18, obtaining a university degree was the next step in my career. Because of my interests in computers, I decided that computer science would be a good match. This turned out to be not so true. While deeply intrigued by the subject of computational machines, I was not satisfied with just studying the workings of a machine built by man.
 
@@ -42,7 +41,7 @@ Bayesian statistics, applied statistics, optimization, machine learning, deep le
 
 
 ### Skills
-Advanced knowledge of 5 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++/C#, Verilog) and related fields (Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, MySQL, MongoDB, Docker, Git, SVN, Apache, etc.). 
+Advanced knowledge of 5 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++/C#, Verilog) and related fields (SQL, Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, MongoDB, Docker, Git, SVN, Apache, etc.). 
 Bayesian statistics, applied statistics, optimization, machine learning, deep learning, stochastic processes, algorithms and data structures, concurrent programming, distributed programming - are the things everyday I'm working with and in what I'm improving my skills constantly.
 
 ### Interests
