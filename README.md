@@ -18,21 +18,6 @@
 
 <br>
 
-### About
-
-For those who don't know me, I'm autistic. Asperger's Syndrome to be precise.
-<p>
-Many of us were considered failures of a sort in school, outcasts, rejects. To us school was a nightmare from which there was no end, but then there was the end, and at that end we found salvation in technology.
-<p>
-This is a subject which has always troubled me, an assertion that one can behave poorly because one is autistic. Perhaps it's because of or some other permutation, but let's start with a very simple truth: Being autistic does not make you a jerk, nor does it ever give you license to be one.
-I have spent all my life with people saying I'm weird, well yes I am and proud of being different, unique and quirky. I've stuggle all my life with fitting into Society, and being what people call Normal, although what is Normal Anyway?. I can't change who I am, and wouldn't want to just to fit in. 
-<p>
-I’ve not put this text up for Sympathy, Support or Approval from anyone, it’s about Awareness, Understanding and Acceptance. Being an Aspie comes with its challenges both Mentally and Physically, which is difficult for people to understand because what you can’t see you can’t understand. Even being an Aspie it’s hard to Understand why your brain is in overload permanently, uncomfortable in social situations & difficult to express feelings. 
-<p>
-Although I’m very fortunate and blessed to have amazing, supportive and caring mother. And I’m very proud of myself for always trying to Endeavour everything I do without support, despite the challenges & attributes of Aspergers.
-<p>
-Since childhood I have been fond of contemplation, well, if you can call it that. I disassembled everything that I could understand at home, looked at how it was arranged, tried to understand how it works ... And now, years later I managed to carry this contemplation of the technological sphere of the Earth (or technium in other words).
-
 ### Education
 I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Science at <a href="https://shsu.am/en/">Shirak State University</a>.
 
@@ -43,7 +28,7 @@ Bayesian statistics, applied statistics, optimization, machine learning, deep le
 
 
 ### Skills
-Advanced knowledge of 5 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++/C#, Verilog) and related fields (SQL, Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, MongoDB, Docker, Git, SVN, Apache, etc.). 
+Advanced knowledge of 3 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++) and related fields (SQL, Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, Docker, Git, SVN etc.). 
 Bayesian statistics, applied statistics, optimization, machine learning, deep learning, stochastic processes, algorithms and data structures, concurrent programming, distributed programming - are the things everyday I'm working with and in what I'm improving my skills constantly.
 
 ### Interests
