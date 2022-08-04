@@ -25,7 +25,7 @@ Many of us were considered failures of a sort in school, outcasts, rejects. To u
 This is a subject which has always troubled me, an assertion that one can behave poorly because one is autistic. Perhaps it's because of or some other permutation, but let's start with a very simple truth: Being autistic does not make you a jerk, nor does it ever give you license to be one.
 I have spent all my life with people saying I'm weird, well yes I am and proud of being different, unique and quirky. I've stuggle all my life with fitting into Society, and being what people call Normal, although what is Normal Anyway?. I can't change who I am, and wouldn't want to just to fit in. 
 <p>
-I’ve not put this post up for Sympathy, Support or Approval from anyone, it’s about Awareness, Understanding and Acceptance. Being an Aspie comes with its challenges both Mentally and Physically, which is difficult for people to understand because what you can’t see you can’t understand. Even being an Aspie it’s hard to Understand why your brain is in overload permanently, uncomfortable in social situations & difficult to express feelings. 
+I’ve not put this text up for Sympathy, Support or Approval from anyone, it’s about Awareness, Understanding and Acceptance. Being an Aspie comes with its challenges both Mentally and Physically, which is difficult for people to understand because what you can’t see you can’t understand. Even being an Aspie it’s hard to Understand why your brain is in overload permanently, uncomfortable in social situations & difficult to express feelings. 
 <p>
 Although I’m very fortunate and blessed to have amazing, supportive and caring mother. And I’m very proud of myself for always trying to Endeavour everything I do without support, despite the challenges & attributes of Aspergers.
 <p>
@@ -33,6 +33,13 @@ Since childhood I have been fond of contemplation, well, if you can call it that
 
 ### Education
 I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Science at <a href="https://shsu.am/en/">Shirak State University</a>.
+I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby!
+
+At age 18, obtaining a university degree was the next step in my career. Because of my interests in computers, I decided that computer science would be a good match. This turned out to be not so true. While deeply intrigued by the subject of computational machines, I was not satisfied with just studying the workings of a machine built by man.
+
+After two years of computer science at the Shirak State University I decided it was time for a change. Computer science was replaced by Life Science & Technology. Naw my interests include machine learning single-cell genomics and clonal mutations.
+Bayesian statistics, applied statistics, optimization, machine learning, deep learning, stochastic processes, algorithms and data structures, concurrent programming, distributed programming - are the things everyday I'm working with and in what I'm improving my skills constantly.
+
 
 ### Skills
 Advanced knowledge of 5 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++/C#, Verilog) and related fields (Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, MySQL, MongoDB, Docker, Git, SVN, Apache, etc.). 
