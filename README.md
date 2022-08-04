@@ -32,9 +32,9 @@ Advanced knowledge of 3 programming languages Python(SciPy/Numpy/Matplotlib/ (Py
 Bayesian statistics, applied statistics, optimization, machine learning, deep learning, stochastic processes, algorithms and data structures, concurrent programming, distributed programming - are the things everyday I'm working with and in what I'm improving my skills constantly.
 
 ### Interests
-
-I am an computer science engineer by formal education and work full time as an software engineer. I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby!<br>
-#### Currently working on ML Bioinformatics projects.<br>
+#### Pure mathematics
+I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby!<br>
+#### Bioinformatics <br>
 My interests include:
 
 - Applied statistics
