@@ -23,9 +23,7 @@ I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Sc
 
 At age 18, obtaining a university degree was the next step in my career. Because of my interests in computers, I decided that computer science would be a good match. This turned out to be not so true. While deeply intrigued by the subject of computational machines, I was not satisfied with just studying the workings of a machine built by man.
 
-After two years of computer science at the Shirak State University I decided it was time for a change. Computer science was replaced by Life Science & Technology. Naw my interests include machine learning single-cell genomics and clonal mutations.
-Bayesian statistics, applied statistics, optimization, machine learning, deep learning, stochastic processes, algorithms and data structures, concurrent programming, distributed programming - are the things everyday I'm working with and in what I'm improving my skills constantly.
-
+After two years of computer science at the Shirak State University I decided it was time for a change. Computer science was replaced by Earth Science & Technology. 
 
 ### Skills
 Advanced knowledge of 3 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++) and related fields (SQL, Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, Docker, Git, SVN etc.). 
@@ -34,12 +32,13 @@ Bayesian statistics, applied statistics, optimization, machine learning, deep le
 ### Interests
 #### Pure mathematics
 I discovered a love for pure mathematics during my bachelor studies in applied mathematics. So now I self-study pure mathematics as a hobby!<br>
-#### Bioinformatics <br>
+#### Machine Learning <br>
 My interests include:
 
 - Applied statistics
 - Computational statistics
 - Bayesian methods
+- Probabilistic graphical models
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
