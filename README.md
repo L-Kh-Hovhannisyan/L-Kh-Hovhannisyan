@@ -28,8 +28,6 @@ After two years of computer science at the university I'd decided to specialize 
 Probabilistic graphical models are a powerful framework for representing complex domains using probability distributions, with numerous applications in machine learning, computer vision, natural language processing, computational biology, geology or medical problems. 
 Graphical models bring together graph theory and probability theory, and provide a flexible framework for modeling large collections of random variables with complex interactions.
 
-I discovered a love for pure mathematics during my bachelor studies in applied mathematics, so graphical models be a good match for me.
-
 My research interests are in applied probability and statistic, with focus on applications of deep neural networks in seismology, theoretrical frameworks of deep neural networks, seismic sources, and time-series analysis. Applications include statistical seismology and cell biology. <br>
 
 I'm working full time as a AI/ML Research Engineer at «Mathematical geophysics and Geoinformatics Laboratory» of «Institute of Geophysics and Engineering Seismology after A. Nazarov» of the «National Academy of Science of Republic of Armenia»
