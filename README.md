@@ -30,9 +30,10 @@ Graphical models bring together graph theory and probability theory, and provide
 
 I discovered a love for pure mathematics during my bachelor studies in applied mathematics, so graphical models be a good match for me.
 
-Now pour computer science was replaced by Earth Science & Technology. My research interests include applications of deep neural networks in seismology, theoretrical frameworks of deep neural networks, seismic sources, and time-series analysis.
-Applications include statistical seismology and cell biology.
-I'm working full time as a ML Research Engineer at «Mathematical geophysics and Geoinformatics Laboratory» of «Institute of Geophysics and Engineering Seismology after A. Nazarov» of the «National Academy of Science of Republic of Armenia» 
+My research interests are in applied probability and statistic, with focus on applications of deep neural networks in seismology, theoretrical frameworks of deep neural networks, seismic sources, and time-series analysis. Applications include statistical seismology and cell biology. <br>
+
+I'm working full time as a AI/ML Research Engineer at «Mathematical geophysics and Geoinformatics Laboratory» of «Institute of Geophysics and Engineering Seismology after A. Nazarov» of the «National Academy of Science of Republic of Armenia»
+
 ### Skills
 Advanced knowledge of 3 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++) and related fields (SQL, Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, Docker, Git, SVN etc.). 
 Bayesian statistics, applied statistics, optimization, machine learning, deep learning, stochastic processes, algorithms and data structures, concurrent programming, distributed programming - are the things everyday I'm working with and in what I'm improving my skills constantly.
