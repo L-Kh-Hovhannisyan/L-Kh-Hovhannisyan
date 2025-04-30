@@ -12,25 +12,16 @@
       alt="leo" height="30" width="40" /></a>
    </p>
 
- <a>  <img align="right"
-      src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
-      alt="leo" height="200" width="300" /></a>
-
 <br>
 
-### Education
-I’m currently doing a Bachelor's degree in Applied Mathematics and Computer Science at Shirak State University.
+### About
 
-At age 18, obtaining a university degree was the next step in my career. Because of my interests in computers, I decided that computer science would be a good match. This turned out to be not so true. While deeply intrigued by the subject of computational machines, I was not satisfied with just studying the workings of a machine built by man.
+My current research centers on computational oncology, where I develop Bayesian models to reconstruct clonal structures from single-cell DNA/RNA sequencing data. By combining variational inference, stochastic processes, and topological data analysis, I aim to uncover the hidden evolutionary dynamics of tumors and support more precise cancer diagnostics.
 
-After two years of computer science at the university I'd decided to specialize in probabilistic graphical models, because I want to develop the knowledge and skills necessary to design, implement and apply these models to solve real scientific problems!
+With a background in nonlinear dynamics and infinite-dimensional systems, I bring a deep theoretical foundation to complex, high-dimensional data problems. While my earlier work focused on seismic hazard assessment, I now apply similar mathematical frameworks to biological systems, exploring the intersection of probabilistic modeling, optimization, and biomedical data analysis.
 
-Probabilistic graphical models are a powerful framework for representing complex domains using probability distributions, with numerous applications in machine learning, computer vision, natural language processing, computational biology, geology or medical problems. 
-Graphical models bring together graph theory and probability theory, and provide a flexible framework for modeling large collections of random variables with complex interactions.
+My research interests are in applied probability and statistics, with a focus on statistical seismology and cell biology. <br>
 
-My research interests are in applied probability and statistic, with focus on applications of deep neural networks in seismology, theoretrical frameworks of deep neural networks, seismic sources, and time-series analysis. Applications include statistical seismology and cell biology. <br>
-
-I'm working full time as a AI/ML Research Engineer at «Mathematical geophysics and Geoinformatics Laboratory» of «Institute of Geophysics and Engineering Seismology after A. Nazarov» of the «National Academy of Science of Republic of Armenia»
 
 ### Skills
 Advanced knowledge of 3 programming languages Python(SciPy/Numpy/Matplotlib/ (PyTorch, Scikit-learn, Pandas), C/C++) and related fields (SQL, Network/CISCO, LinuxOC/Bash scripting, HTML5, CSS3, Docker, Git, SVN etc.). 
